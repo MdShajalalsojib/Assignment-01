@@ -1,0 +1,467 @@
+ 
+body {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+   
+     
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #bdc7c8;
+}
+
+.con {
+    display: flex;
+    width: 1280px;
+    margin: auto;
+    margin-bottom: 30px;
+    justify-content: space-between;
+}
+ .container2{
+      width: 500px; 
+      text-align: left;
+
+       
+     
+}
+.hero2{
+    
+    margin: auto;
+}
+   
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    
+    
+}
+
+.header h1 {
+    margin: 0;
+}
+
+.sign-in {
+    background-color: #dfe4e0;
+    color: #07e51d;
+    padding: 10px 20px;
+    border: 80px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    
+    font-weight: bold;
+}
+
+/* Hero Section */
+.hero {
+    background-color: #dff6f0;
+    padding: 50px ;
+    text-align: center;
+    width: 1280px;
+    height: 500px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    
+    
+}
+
+.hero h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #0f5d15;
+    color: #eef0ef;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.tex{
+    color: rgb(101, 104, 103);
+}
+.hero3{
+     
+    width: 1280px;
+    margin: auto;
+    margin-top: 80px;
+
+}
+.div-dig{
+    width: 250px;
+    padding: 20px;
+    border: 1px solid rgb(164, 161, 161);
+    border-radius: 20px;
+     
+    background-color: rgb(242, 236, 236);
+}
+.div-0{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+
+}
+.Future{
+    width: 1280px;
+    margin: auto;
+    margin-top: 80px;
+
+}
+.div-1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+
+}
+.div-dig-02{
+    width: 250px;
+    padding: 20px;
+    border: 1px solid rgb(164, 161, 161);
+    border-radius: 20px;
+    background: rgba(84, 144, 245, 0.2);
+
+}
+.div-dig-03{
+    width: 250px;
+    padding: 20px;
+    border: 1px solid rgb(164, 161, 161);
+    border-radius: 20px;
+    background: rgba(84, 144, 245, 0.2);
+
+}
+.div-dig-04{
+    width: 250px;
+    padding: 20px;
+    border: 1px solid rgb(164, 161, 161);
+    border-radius: 20px;
+     
+    background: rgb(247, 235, 207);
+
+}
+ .Button-01{
+    background-color: #40d0e0;
+    color: #f3f4f3;
+    padding: 10px 20px;
+    border: 80px;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+    width: 150px;
+    height: 50px;
+    font-weight: bold;
+
+ }
+ .Button-02{
+     
+    color: #f7f8f8;
+    padding: 10px 30px;
+    border: 80px;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+    width: 150px;
+    height: 50px;
+    font-weight: bold; 
+    background: rgb(9, 161, 92);
+    
+
+ }
+ .Button-03{
+    background: rgb(255, 194, 57);
+    color: #f7f8f8;
+    padding: 10px 20px;
+    border: 80px;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+    width: 150px;
+    height: 50px;
+    font-weight: bold;
+     
+
+ }
+ .DrYunus{
+    width: 1280px;
+    margin: auto;
+    margin-top: 80px;
+
+ }
+ .div2{
+    background-image: url('../B11A1--assignment-1/assets/quote-bg.png');
+    background-size: 80px;
+    background-position:20px 10px;
+     
+    background-repeat: no-repeat;
+    width: 1280px;
+    padding: 20px;
+    border: 1px solid rgb(224, 223, 223);
+    border-radius: 20px;
+     
+    background-color: rgb(243, 243, 243);
+
+ }
+ .colo-01{
+    color: #575959;
+ }
+ .Opinion{
+    width: 1280px;
+    margin: auto;
+    margin-top: 80px;
+
+ }
+.div-3{
+    width: 1280px;
+    padding: 20px;
+    border: 1px solid rgb(224, 221, 221);
+    border-radius: 20px;
+     
+    background-color: rgb(241, 245, 246);
+
+}
+.Ques{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgb(12, 12, 12);
+    background: rgb(198, 228, 214);
+    margin: auto;
+    padding: 4px 40px;
+
+}
+.Ques1{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgb(12, 12, 12);
+     
+    
+}
+.button-4{
+    background: rgb(144, 187, 176);
+
+    color: #f7f8f8;
+    /* padding: 10px 10px; */
+    border: 80px;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+    width: 150px;
+    height: 50px;
+    font-weight: bold;
+     
+
+}
+
+ .button-5{
+    background: rgb(0, 106, 80);
+    color: #f7f8f8;
+    padding: 10px 10px;
+    border: 80px;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+    width: 150px;
+    height: 50px;
+    font-weight: bold;
+    padding: 4px 4px; 
+      
+
+}
+ .Recent{
+    width: 1280px;
+    margin: auto;
+    margin-top: 80px;
+
+ }
+ .div-05{
+    display: flex;
+    justify-content: space-between;
+    
+     
+
+ }
+ .div-06{
+    width: 1280px;
+    padding: 20px;
+    border: 1px solid rgb(224, 221, 221);
+    border-radius: 20px;
+     
+    background-color: rgb(241, 245, 246);
+
+
+ }
+ .img{
+    padding: 30px;
+    border-radius: 5px;
+     
+      
+ }
+ .div-07{
+    text-align: center;
+    border-radius: 5px;
+    padding: 8px;
+    color: #828687;
+    background-color: #f6f8f9;
+    
+ }
+ .Donate{
+    width: 1150px;
+    margin: auto;
+    margin-top: 80px;
+    text-align: center;
+
+ }
+  .btn-Donal{
+
+     width: 250px;
+    background-color: #fdfdfd;
+    color: #0e0f0f;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+
+ }
+ .btn-Donal:hover{
+    background-color: #0b4349;
+ }
+ .btn-Donal-01{
+    
+     width: 250px;
+    background-color: #6ba9b4;
+    color: #0e0f0f;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+
+ }
+ ..btn-Donal-01:hover{
+    background-color: #046521;
+ }
+ .btn-Donal-02{
+     width: 250px;
+    background-color: #fdfdfd;
+    color: #0e0f0f;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+
+ }
+ .btn-Donal-02:hover{
+    background-color: #549716;
+ }
+ .btn-Donal-03{
+     width: 250px;
+    background-color: #fdfdfd;
+    color: #0e0f0f;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+
+ } 
+ .btn-Donal-03:hover {
+    background-color: red;
+ }
+ .donal{
+    width: 220px;
+    background-color: #0f8634;
+    color: #fcfcfc;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+
+ }
+   
+ .subs{
+    width: 1280px;
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+    border-radius: 20px;
+    
+ }
+ .div-08{
+    text-align: center;
+     
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #85c6ca;
+
+ }
+ .Enter{
+    display: flex;
+    justify-content: space-between;
+    background-color: #f0f1f0;
+     border-radius: 10px;
+     width: 700px;
+     margin: auto;
+      
+      
+
+ }
+ .t{
+    background-color: #0b472e;
+    color: wheat;
+    text-align: center;
+     padding: 8px;
+     border-radius: 0px 10px 10px 0px;
+     width: 250px;
+ }
+ .y{
+    padding: 8px;
+ }
+ .Bang{
+    text-align: center;
+ }
+ .butt{
+    border-left: 1px solid rgb(12, 12, 12);
+    padding: 20px;
+ }
+  .question-title {
+    padding-left: 20px;
+  }
+  .img2{
+    border-radius: 10px;
+  }
+  .Launches-01{
+    margin-top: 20px;
+  }
+  .Donate-03{
+    justify-content: space-between;
+    display: flex;
+
+  }
+  .End{
+    background-color: white;
+    text-align: center;
+  }
+  .h{
+    width: 900px;
+    margin: auto;
+     
+
+  }
+  .aikon{
+    margin-left: 15px;
+  }
+  .tex-1{
+    font-size: 50px;
+  }
+   
+
+ 
+ 
+ 
